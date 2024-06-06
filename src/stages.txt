@@ -1,0 +1,2 @@
+zish - just starts the shell in interactive mode
+zish fzf ./richard - does whatever the command is so that you can use your stuff in bash
